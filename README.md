@@ -1,4 +1,11 @@
 ### Hi there 👋
+My name is Nguyen Tran Tan Quy
+I studying at Posts and Telecommunications Institute of Technology
+My major is Information Technology
+I'm currently learning JavaScript, Python, Node-JS, ExpressJS, Java, ...
+My dream is become a BackEnd Developer
+<a href="https://app.daily.dev/quyglp12"><img src="https://api.daily.dev/devcards/af070754f5dd4746ba6d24b48948be7c.png?r=t96" width="400" alt="Nguyễn Trần Tấn Quy's Dev Card"/></a>
+
 
 <!--
 **NguyenTranTanQuy/NguyenTranTanQuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
