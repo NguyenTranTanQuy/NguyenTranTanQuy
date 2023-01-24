@@ -6,7 +6,7 @@
 - My dream is become a BackEnd Developer
 
 
-<a href="https://app.daily.dev/quyglp12"><img src="https://api.daily.dev/devcards/af070754f5dd4746ba6d24b48948be7c.png?r=t96" width="400" alt="Nguyễn Trần Tấn Quy's Dev Card"/></a>
+<a href="https://app.daily.dev/TanQuy0401"><img src="https://api.daily.dev/devcards/af070754f5dd4746ba6d24b48948be7c.png?r=792" width="400" alt="Nguyễn Trần Tấn Quy's Dev Card"/></a>
 
 
 <!--
