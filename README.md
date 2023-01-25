@@ -7,7 +7,7 @@
 
 - My daily.dev:
 
-<a href="https://app.daily.dev/TanQuy0401"><img src="https://api.daily.dev/devcards/af070754f5dd4746ba6d24b48948be7c.png?r=txz" width="400" alt="Nguyễn Trần Tấn Quy's Dev Card"/></a>
+<a href="https://app.daily.dev/TanQuy0401"><img src="https://api.daily.dev/devcards/af070754f5dd4746ba6d24b48948be7c.png?r=841" width="400" alt="Nguyễn Trần Tấn Quy's Dev Card"/></a>
 
 - My Leetcode:
 
