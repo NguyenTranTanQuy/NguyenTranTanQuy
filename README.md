@@ -3,7 +3,7 @@
 - I'm studying at Posts and Telecommunications Institute of Technology
 - My major is Information Technology
 - I'm currently learning JavaScript, Python, Node-JS, ExpressJS, Java, ...
-- My dream is become a BackEnd Developer
+- My dream is to become a BackEnd Developer
 
 - My daily.dev:
 
