@@ -2,8 +2,8 @@
 - My name is Nguyen Tran Tan Quy
 - I'm studying at Posts and Telecommunications Institute of Technology
 - My major is Information Technology
-- I'm currently learning JavaScript, Python, Node-JS, ExpressJS, Java, ...
-- My dream is to become a BackEnd Developer
+- I'm currently learning  Python, Java, JavaScript,...
+- My dream is to become a Data Scientist
 
 - My daily.dev:
 
