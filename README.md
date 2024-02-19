@@ -3,7 +3,7 @@
 - I'm studying at Posts and Telecommunications Institute of Technology
 - My major is Information Technology
 - I'm currently learning Python, Java, C++,...
-- My dream is to become a Data Scientist
+- My dream is to become a Data Analyst | Data Scientist
 
 - My daily.dev:
 
